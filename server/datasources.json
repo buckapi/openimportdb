@@ -1,10 +1,10 @@
 {
   "db": {
-    "url": "mongodb+srv://labcel:dashboard.12@labceldb.klcrinh.mongodb.net/labceldb",
-    "database": "labceldb",
-    "password": "dashboard.12",
+    "url": "mongodb+srv://openimport:dashboard.68@openimport.cskumvq.mongodb.net/openimport",
+    "database": "openimport",
+    "password": "dashboard.68",
     "name": "db",
-    "user": "labcel",
+    "user": "openimport",
 "protocol": "mongodb+srv",
     "useNewUrlParser": true,
     "connector": "mongodb"
