@@ -1,0 +1,12 @@
+{
+  "db": {
+    "url": "mongodb+srv://labcel:dashboard.12@labceldb.klcrinh.mongodb.net/labceldb",
+    "database": "labceldb",
+    "password": "dashboard.12",
+    "name": "db",
+    "user": "labcel",
+"protocol": "mongodb+srv",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
